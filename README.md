@@ -6,3 +6,5 @@ The display lets the user know several things, such as: how to start the game, t
 I used an off brand arduino to control the LCD, game logic and to read signals from the various tripwire sensors on the board.
 
 disp&GameLogic contains the arduino code for my portion of the project.
+
+![image](https://github.com/om-campbell/484_Individual_Pinball_Project/assets/95777461/cbff060f-14b7-400d-baf6-167614743469)
