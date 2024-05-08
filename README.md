@@ -7,4 +7,6 @@ I used an off brand arduino to control the LCD, game logic and to read signals f
 
 disp&GameLogic contains the arduino code for my portion of the project.
 
+
+The following image shows how the LCD is wired to the arduino
 ![image](https://github.com/om-campbell/484_Individual_Pinball_Project/assets/95777461/cbff060f-14b7-400d-baf6-167614743469)
